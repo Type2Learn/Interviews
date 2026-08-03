@@ -1,3 +1,6 @@
+**FULL INTERVIEW TRANSCRIPT**
+**Video:** 
+
 **\[00:00] Ma’am Myeda:** What do you mean when you say “neurodivergent?”
 
 **\[00:06] Taha:** Ma’am, like dyslexia, ADHD.
