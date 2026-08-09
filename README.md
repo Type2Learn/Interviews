@@ -29,6 +29,14 @@ The product reviews provide a second layer of evidence: not only what students s
 
 The reassurance is valuable precisely because it is not blind praise. The interface, customization, and typing direction repeatedly received positive reactions, while the criticisms point directly to the next engineering priorities.
 
+## Additional visual product reviews
+
+The [`revies/`](./revies/README.md) folder preserves **11 additional image-based reviews** from Ali Rehman, Muhammad Taha, Huzaifa Sharif, Sami, Muhammad Zubair, Maheen Ateeq, Muhammad Ali Imran, Miray Fatima, Minahil Fatima, Muhammad Mahd, and Taimoor.
+
+Together, these reviewers reinforce that Type2Learn is clean, simple, student-friendly, useful for typing practice, and meaningful for learners with different needs. They also give us actionable priorities: explain the neurodivergent value more clearly, improve navigation and course discoverability, add more courses and a team group photo, improve mobile autofill and unrealistic WPM readings, and continue collecting feedback directly from neurodivergent users.
+
+One review is especially important for learning-design validation. Muhammad Zubair reported that the typing activity made him concentrate on capitalization, punctuation, and error correction instead of understanding the lesson, leaving him with very little recall. This supports a comprehension-first design in which typing is optional or adaptable and assessment can use multiple response modes.
+
 ## What educators and professionals taught us
 
 ### Ma’am Myeda — psychology professional
@@ -177,6 +185,19 @@ The following tree shows the tracked research content. Structural `.gitkeep` pla
 │   ├── README.md
 │   ├── Analytics_HTTP_Traffic_type2learn.tech_Cloudflare.pdf
 │   └── Reports_snapshot-1.pdf
+├── revies/
+│   ├── README.md
+│   ├── Ali_Rehman_review.jpeg
+│   ├── Huzaifa_Sharif_review.png
+│   ├── Maheen_Ateeq_review.jpeg
+│   ├── Minahil_Fatima_review.jpeg
+│   ├── Miray_Fatima_review.jpeg
+│   ├── Muhammad_Ali_Imran_review.jpeg
+│   ├── Muhammad_Mahd_review.jpeg
+│   ├── Muhammad_Taha_review.png
+│   ├── Muhammad_Zubair_review.jpeg
+│   ├── Sami_review.jpeg
+│   └── Taimoor_review.png
 ├── Professionals/
 │   └── Pre-Product/
 │       └── Dr Mayda/
