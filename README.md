@@ -31,7 +31,7 @@ The reassurance is valuable precisely because it is not blind praise. The interf
 
 ## Additional visual product reviews
 
-The [`revies/`](./revies/README.md) folder preserves **16 additional image-based reviews** from Ali Rehman, Muhammad Taha, Huzaifa Sharif, Sami, Muhammad Zubair, Maheen Ateeq, Muhammad Ali Imran, Miray Fatima, Minahil Fatima, Muhammad Mahd, Taimoor, Saad, Areeba Naeem, Bilal Nadeem, Ahmad, and Fawad.
+The [`revies/`](./revies/README.md) folder preserves **25 additional image-based reviews** from Ali Rehman, Muhammad Taha, Huzaifa Sharif, Sami, Muhammad Zubair, Maheen Ateeq, Muhammad Ali Imran, Miray Fatima, Minahil Fatima, Muhammad Mahd, Taimoor, Saad, Areeba Naeem, Bilal Nadeem, Ahmad, and Fawad.
 
 Together, these reviewers reinforce that Type2Learn is clean, simple, student-friendly, useful for typing practice, and meaningful for learners with different needs. They also give us actionable priorities: explain the neurodivergent value more clearly, improve navigation and course discoverability, add more courses and a team group photo, improve mobile autofill and unrealistic WPM readings, reduce landing-page and mascot loading delays, clarify certificates, improve line wrapping during typing, and continue collecting feedback directly from neurodivergent users.
 
