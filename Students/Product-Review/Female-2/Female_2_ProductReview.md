@@ -1,6 +1,7 @@
 # Maheen's Review Transcript
 
 *English Translation (Pass 1) - Type2Learn User Feedback Session*
+link: https://www.youtube.com/watch?v=xDw4yIbQHUc
 
 ## 1. Landing Page and First Impressions
 
