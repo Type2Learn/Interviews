@@ -1,6 +1,7 @@
 # Tooba's Review Transcript
 
 *Type2Learn User Feedback Session - Structured*
+link: https://www.youtube.com/watch?v=BrUXt-k8O-Y
 
 ## 1. Landing Page and First Impressions
 
