@@ -31,9 +31,9 @@ The reassurance is valuable precisely because it is not blind praise. The interf
 
 ## Additional visual product reviews
 
-The [`revies/`](./revies/README.md) folder preserves **25 additional image-based reviews** from Ali Rehman, Muhammad Taha, Huzaifa Sharif, Sami, Muhammad Zubair, Maheen Ateeq, Muhammad Ali Imran, Miray Fatima, Minahil Fatima, Muhammad Mahd, Taimoor, Saad, Areeba Naeem, Bilal Nadeem, Ahmad, and Fawad.
+The [`revies/`](./revies/README.md) folder preserves **26 additional review screenshots from 25 reviewers**: Ali Rehman, Muhammad Taha, Huzaifa Sharif, Sami, Muhammad Zubair, Maheen Ateeq, Muhammad Ali Imran, Miray Fatima, Minahil Fatima, Muhammad Mahd, Taimoor, Ahmad, Areeba Naeem, Bilal Nadeem, Fawad, Saad, Abdur Rehman, Abubakar, Hassan Mehboob, Reyan, Muneeb, Obaida Nadeem, Omair, Rehan, and Talha Aziz.
 
-Together, these reviewers reinforce that Type2Learn is clean, simple, student-friendly, useful for typing practice, and meaningful for learners with different needs. They also give us actionable priorities: explain the neurodivergent value more clearly, improve navigation and course discoverability, add more courses and a team group photo, improve mobile autofill and unrealistic WPM readings, reduce landing-page and mascot loading delays, clarify certificates, improve line wrapping during typing, and continue collecting feedback directly from neurodivergent users.
+Together, these reviewers reinforce that Type2Learn is clean, simple, student-friendly, useful for typing practice, and meaningful for learners with different needs. They also give us actionable priorities: explain the neurodivergent value more clearly, improve navigation and course discoverability, add more courses and a team group photo, improve mobile autofill and unrealistic WPM readings, reduce landing-page and mascot loading delays, clarify certificates, improve line wrapping during typing, modernize visual detailing and graphics, refine buttons, dashboards, and page transitions, and continue collecting feedback directly from neurodivergent users.
 
 One review is especially important for learning-design validation. Muhammad Zubair reported that the typing activity made him concentrate on capitalization, punctuation, and error correction instead of understanding the lesson, leaving him with very little recall. This supports a comprehension-first design in which typing is optional or adaptable and assessment can use multiple response modes.
 
@@ -181,14 +181,22 @@ The following tree shows the tracked research content. Structural `.gitkeep` pla
 ```text
 /
 ├── README.md
+├── Type2Learn_Commit_History.md
 ├── proves/
 │   ├── README.md
 │   ├── Analytics_HTTP_Traffic_type2learn.tech_Cloudflare.pdf
 │   └── Reports_snapshot-1.pdf
 ├── revies/
 │   ├── README.md
+│   ├── Abdul rehman.jpeg
+│   ├── Abubakar.jpeg
+│   ├── Ahmad_review.png
 │   ├── Ali_Rehman_review.jpeg
+│   ├── Areeba_Naeem_review.png
+│   ├── Bilal_Nadeem_review.png
+│   ├── Fawad_review.png
 │   ├── Huzaifa_Sharif_review.png
+│   ├── Ihave.jpeg
 │   ├── Maheen_Ateeq_review.jpeg
 │   ├── Minahil_Fatima_review.jpeg
 │   ├── Miray_Fatima_review.jpeg
@@ -196,13 +204,16 @@ The following tree shows the tracked research content. Structural `.gitkeep` pla
 │   ├── Muhammad_Mahd_review.jpeg
 │   ├── Muhammad_Taha_review.png
 │   ├── Muhammad_Zubair_review.jpeg
+│   ├── Obaida.jpeg
+│   ├── Omair.jpeg
+│   ├── rehan.jpeg
+│   ├── rayna.jpeg
 │   ├── Saad_review.png
-│   ├── Areeba_Naeem_review.png
-│   ├── Bilal_Nadeem_review.png
-│   ├── Ahmad_review.png
-│   ├── Fawad_review.png
 │   ├── Sami_review.jpeg
-│   └── Taimoor_review.png
+│   ├── Talhaaziz.jpeg
+│   ├── Taimoor_review.png
+│   ├── hassanmehboob.jpeg
+│   └── muneebb.jpeg
 ├── Professionals/
 │   └── Pre-Product/
 │       └── Dr Mayda/
